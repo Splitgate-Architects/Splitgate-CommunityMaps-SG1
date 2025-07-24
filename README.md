@@ -90,3 +90,6 @@ To submit any map codes you want here, create an issue on this repository with t
 | [UTA-JJV-284](/Maps/UTA-JJV-284) | HnS Lantean City @Hunter |
 | [XA9-HJP-PXJ](/Maps/XA9-HJP-PXJ) | SG-1 @Hunter |
 | [YHN-TR4-PFJ](/Maps/YHN-TR4-PFJ) | UP 2! by Hunter |
+| [TPZ-3XF-2FD](/Maps/TPZ-3XF-2FD) | Industrial (@Hayes) |
+| [3C7-G5I-06J](/Maps/3C7-G5I-06J) | Lantean City NP @HK |
+| [5TZ-E4X-MQ8](/Maps/5TZ-E4X-MQ8) | [np] Absolute @nominoe |
