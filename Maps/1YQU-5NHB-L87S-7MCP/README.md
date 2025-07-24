@@ -6,4 +6,4 @@
 #### Id: ```8F14A12046DC9527E7FCC0AFA54E508B```
 
 > [!TIP]
-> This is a downloaded backup, ***with permission***, for if the servers ever go down.
+> Please submit an image if you can!
