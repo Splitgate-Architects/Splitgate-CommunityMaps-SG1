@@ -93,3 +93,17 @@ To submit any map codes you want here, create an issue on this repository with t
 | [TPZ-3XF-2FD](/Maps/TPZ-3XF-2FD) | Industrial (@Hayes) |
 | [3C7-G5I-06J](/Maps/3C7-G5I-06J) | Lantean City NP @HK |
 | [5TZ-E4X-MQ8](/Maps/5TZ-E4X-MQ8) | [np] Absolute @nominoe |
+| [JH7-6JP-VSN](/Maps/JH7-6JP-VSN) | Complex Alpha @MoonJuice |
+| [CUU-LTL-G57](/Maps/CUU-LTL-G57) | Complex Bravo @MoonJuice |
+| [6V5-AQL-81A](/Maps/6V5-AQL-81A) | Complex Charlie @Moon |
+| [TFC-5YJ-2EX](/Maps/TFC-5YJ-2EX) | Complex Delta @MoonJuice |
+| [KAM-ZJU-7Q3](/Maps/KAM-ZJU-7Q3) | Core Sector (@Phoenix) |
+| [CAW-1NG-ETE](/Maps/CAW-1NG-ETE) | DB_Courtyard (@Phoenix) |
+| [T8C-UT5-EU5](/Maps/T8C-UT5-EU5) | Eden (@Yurgy, Phoenix) |
+| [7GB-8YY-RQD](/Maps/7GB-8YY-RQD) | SB_Accel (@Phoenix) |
+| [6DRM-0L3N-WUD3-N1HS](/Maps/6DRM-0L3N-WUD3-N1HS) | Simulation Phoenix |
+| [0MB-3C7-HKR](/Maps/0MB-3C7-HKR) | Split Hill (@Phoenix) |
+| [VCPM-P7DE-V8FL-EG8R](/Maps/VCPM-P7DE-V8FL-EG8R) | YRGB (@Phoenix, @Yurgy) |
+| [OO9-M44-51P](/Maps/OO9-M44-51P) | Vicious Bridge (By VYTO) |
+| [BSY-CSQ-DHS](/Maps/BSY-CSQ-DHS) | Quick Response v1-2 |
+| [GTA-5M1-ZCV](/Maps/GTA-5M1-ZCV) | 2fort Sniper (@nozey0) |
